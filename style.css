@@ -1,0 +1,33 @@
+
+.hea1{
+  font-family: 'Lobster', cursive;
+  font-weight: bolder;
+}
+.conten{
+  height: auto;
+  width: 70rem;
+}
+.widh{
+  width: 100%;
+}
+.siZz{
+  height: auto;
+  width: auto;
+}
+.fist{
+  float: left;
+}
+.secnd{
+  float: left;
+}
+.fntwo{
+  font-family: 'Qahiri', sans-serif;
+  font-size: xx-large;
+}
+.fnthre{
+  font-family: 'Uchen', serif;
+  font-stretch: ultra-expanded;
+}
+.fnfor{
+  font-family: 'Zen Kurenaido', sans-serif;
+}
